@@ -1,4 +1,4 @@
-# 你好，我是咕咕（DevOpsMogul）! 👋
+# 你好，我是咕咕（0x7c00）（DevOpsMogul）! 👋
 ## 一只Furry 童心的HTML+CSS+JS前端程序员
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevOpsMogul&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
