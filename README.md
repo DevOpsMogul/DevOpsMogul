@@ -1,4 +1,4 @@
-# 你好，我是咕咕（0x7c00）（DevOpsMogul）! 👋
+# 你好，我是咕咕-0x7c00-DevOpsMogul 👋
 ## 一只Furry  有童心的HTML+CSS+JS前端程序员
 <div align="center"><img src="https://my-img.cc/i/2023/01/26/63d25b1d01c08.gif" /></div>
 <br>
