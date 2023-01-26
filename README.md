@@ -1,11 +1,15 @@
 # 你好，我是咕咕（0x7c00）（DevOpsMogul）! 👋
-## 一只Furry 童心的HTML+CSS+JS前端程序员
-
+## 一只Furry  有童心的HTML+CSS+JS前端程序员
+<div align="center"><img src="https://my-img.cc/i/2023/01/26/63d25b1d01c08.gif" /></div>
+<br>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevOpsMogul&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<hr>
 
 - 🔭 我来自中国，家乡山东，现居山东
 - 🌱 业余爱好：摄影，旅行，Kali
 - 💬 主要语言HTML
+
+<hr>
 
 ## 关注我
 ![me](https://komarev.com/ghpvc/?username=DevOpsMogul&color=green)
@@ -22,6 +26,15 @@
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsMogul&theme=vue)](https://github.com/duktig666)
+
+## 旗下网站
+
+- [HTTPS工作室官网](https://DevOpsMogul.github.io/gw)
+- [Gmod服务器加载界面](https://DevOpsMogul.github.io/all)
+- [自制三体小游戏（加载慢的一批）](https://DevOpsMogul.github.io/santi.html)
+- [咕咕收录库](https://DevOpsMogul.github.io/slk)
+- [现代战舰下载站](https://DevOpsMogul.github.io/mwxz)
+- [北望金句](https://DevOpsMogul.github.io/beiwang)
 
 ## 里程碑
 
