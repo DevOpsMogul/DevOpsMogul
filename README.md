@@ -29,6 +29,7 @@
 
 ## 旗下网站
 
+- [SMWT2](https://furry-devops.github.io)
 - [HTTPS工作室官网](https://DevOpsMogul.github.io/gw)
 - [Gmod服务器加载界面](https://DevOpsMogul.github.io/all)
 - [自制三体小游戏（加载慢的一批）](https://DevOpsMogul.github.io/santi.html)
