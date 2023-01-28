@@ -1,5 +1,5 @@
 # 你好，我是咕咕-0x7c00-DevOpsMogul 👋
-## 一只Furry  有童心的自学HTML+CSS+JS前端小白
+## 一只Furry🐺  有童心😁的自学HTML+CSS+JS前端小白😥
 <div align="center"><img src="https://my-img.cc/i/2023/01/26/63d25b1d01c08.gif" /></div>
 <br>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevOpsMogul&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
