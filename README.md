@@ -25,11 +25,11 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevOpsMogul&layout=compact&theme=vue" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsMogul&theme=vue)](https://github.com/duktig666)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsMogul&theme=vue)]
 
 ## 旗下网站
 
-- [SMWT2](https://furry-devops.github.io)
+- [SMWT2](https://furry-smwt.github.io)
 - [HTTPS工作室官网](https://DevOpsMogul.github.io/gw)
 - [Gmod服务器加载界面](https://DevOpsMogul.github.io/all)
 - [自制三体小游戏（加载慢的一批）](https://DevOpsMogul.github.io/santi.html)
