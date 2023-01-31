@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevOpsMogul&layout=compact&theme=vue" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsMogul&theme=vue)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevOpsMogul&theme=vue)
 
 ## 旗下网站
 
