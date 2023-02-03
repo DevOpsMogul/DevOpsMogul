@@ -30,11 +30,8 @@
 ## 旗下网站
 
 - [SMWT2](https://furry-smwt.github.io)
-- [HTTPS工作室官网](https://DevOpsMogul.github.io/gw)
 - [Gmod服务器加载界面](https://DevOpsMogul.github.io/all)
 - [自制三体小游戏（加载慢的一批）](https://DevOpsMogul.github.io/santi.html)
-- [咕咕收录库](https://DevOpsMogul.github.io/slk)
-- [现代战舰下载站](https://DevOpsMogul.github.io/mwxz)
 - [北望金句](https://DevOpsMogul.github.io/beiwang)
 
 ## 里程碑
